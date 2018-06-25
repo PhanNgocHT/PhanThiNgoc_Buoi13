@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PhanThiNgoc_Buoi13</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="dichuyen">Di chuyển</string>
+    <string name="saochep">Sao chép</string>
+    <string name="xoa">Xóa</string>
+</resources>
